@@ -7,7 +7,7 @@ quickcards ![] (https://zenodo.org/badge/doi/10.5281/zenodo.9872.png)
 
 What is this quickcards repository you wonder? Why did I call it quickcards, and why did I choose to create a repository that seemingly has no code?
 
-The term quickcards actually comes from an old piece of software called [Zoomracks] (http://en.wikipedia.org/wiki/Zoomracks). Zoomracks was a database management system for the Atari ST and IBM PC that represented data in a form that was visually represented by a filing card, known as "QUICKCARD"s.
+The term quickcards actually comes from an old piece of software called [Zoomracks] (http://en.wikipedia.org/wiki/Zoomracks) . Zoomracks was a database management system for the Atari ST and IBM PC that represented data in a form that was visually represented by a filing card, known as "QUICKCARD"s.
 
 Basically, what I want to do is write software that is as minimalistic as possible. I don't just want to go for elegance and readability: I want to go for code that is the absolute minimum it needs to be to "get stuff done".
 
