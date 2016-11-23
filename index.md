@@ -46,3 +46,6 @@ Zoomracks For Atari ST
 * The program disk contains several sample racks as well. One sample which is useful for more than just learning about Zoomracks is a mail-merge template. One card within a rack serves as a form letter, and the card-merge macro can be used to print out a rack of cards consisting of names, addresses, and salutations. With a little imagination, you can develop all kinds of applications using macros.
 * All in all, Zoomracks is a practical and even fun way to keep track of various types of information. With its visual interface and zooming feature, you can always visualize your data as you want-from a broad overview of the whole database to a specific detail of a single field. Help is available at any time and the menus are straightforward. As you get more experienced, you can use the commands instead of the menus. In either case, there are few rules to follow and few limitations.
 * Zoomracks is a well-done program and a unique concept. If you need a database manager and want to get up to speed as quickly as possible, Zoomracks is an excellent choice.
+
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
+(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
