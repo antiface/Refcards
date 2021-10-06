@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form action='/ 'method='post'>
+            <input placeholder='Context' name='context'>
+            <input placeholder='Refcard', name='refcard'>
+            <input type='submit' value='Submit'>
+        </form>
+        {% for refcard in refcards %}
+        <div>{{ refcard[1] + ": " + refcard[2] }}</div>
+        {% endfor %}
+    </body>
+</html>
