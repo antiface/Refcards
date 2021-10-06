@@ -1,3 +1,11 @@
+# CONCEPT:
+### THE REFCARD-PROJECT:
+* The main idea behind The Refcards-Project is the concept of a "Refcard";
+* A "Refcard" is like an index card in an old library card catalog;
+* In this instance, it has two parts, "Context" and "Refcard";
+* I will be adding timestamps, for now I just had IDs, Context, and Refcard fields in the SQLite database;
+* Here is some background of the inspiration behind this project;
+
 # BACKGROUND:
 
 quickcards ![](https://zenodo.org/badge/doi/10.5281/zenodo.9872.png)
@@ -48,4 +56,4 @@ Zoomracks For Atari ST
 * All in all, Zoomracks is a practical and even fun way to keep track of various types of information. With its visual interface and zooming feature, you can always visualize your data as you want-from a broad overview of the whole database to a specific detail of a single field. Help is available at any time and the menus are straightforward. As you get more experienced, you can use the commands instead of the menus. In either case, there are few rules to follow and few limitations.
 * Zoomracks is a well-done program and a unique concept. If you need a database manager and want to get up to speed as quickly as possible, Zoomracks is an excellent choice.
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2021. ![A.G. (c) 2021. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
