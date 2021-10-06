@@ -5,7 +5,7 @@
 * $ python3 -m venv venv
 * $ . venv/bin/activate
 * $ pip3 install flask
-* $ pip3 install flask_cors
+* $ pip3 install flask-cors
 * $ sqlite3 database.db < schema.sql
 * $ python3 app.py
 
