@@ -8,8 +8,9 @@
             <input type='submit' value='Submit'>
         </form>
         {% for refcard in refcards %}
-        <div class="shadowbox"><p>{{ refcard[1] + ":" }}</p>
-        <p>{{ refcard[2] }}</p></div>
+        <div class="shadowbox"><p>{{ refcard[1] }}</p>
+        <p>{{ refcard[2] }}</p>
+        <p>{{ refcard[3] }}</p></div>
         {% endfor %}
     </body>
 </html>
