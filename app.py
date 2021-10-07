@@ -14,6 +14,7 @@ def index():
         
         
     if request.method == 'POST':
+        created_at = request.form.get('created_at')
         context = request.form.get('context')
         refcard = request.form.get('refcard')
         create_card(context, refcard)
