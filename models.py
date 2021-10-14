@@ -1,7 +1,7 @@
 import sqlite3 as sql
 import os
 
-os.chdir('FILEPATH')
+os.chdir('FILEPATH') # Replace with actual filepath
 
 def create_card(context, refcard):
     con = sql.connect('database.db')
